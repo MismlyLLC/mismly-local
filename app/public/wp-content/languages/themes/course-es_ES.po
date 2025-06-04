@@ -1,0 +1,363 @@
+# Translation of Themes - Course in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Course package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-13 15:32:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Course\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Course is a flexible and modern education theme for anyone wanting to share their knowledge. The theme is built with integration with Sensei LMS and is ideal for Sensei users that are creating or selling courses. Style variations with multiple font and color combinations help you craft the perfect look and feel to show off courses and content. The theme can be used without Sensei too."
+msgstr "Course es un tema educativo flexible y moderno para cualquiera que desee compartir sus conocimientos. El tema está construido con integración con Sensei LMS y es ideal para usuarios de Sensei que estén creando o vendiendo cursos. Las variaciones de estilo con múltiples combinaciones de fuentes y colores te ayudan a crear el aspecto perfecto para mostrar cursos y contenidos. El tema también se puede utilizar sin Sensei."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Course"
+msgstr "Course"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Lesson"
+msgstr "Lección"
+
+#: styles/gold.json
+msgctxt "Color name"
+msgid "Course Navigation - Locked"
+msgstr "Navegación por Course - Bloqueado"
+
+#: styles/gold.json
+msgctxt "Color name"
+msgid "Course Navigation - Summary"
+msgstr "Navegación por Course - Resumen"
+
+#: patterns/footer.php:138
+msgid "© Designed with %1$s"
+msgstr "© Diseñado con %1$s"
+
+#: patterns/footer.php:136
+msgid "https://wordpress.org"
+msgstr "https://es.wordpress.org"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Column - No Featured Image, No Title"
+msgstr "Una columna - Sin imagen destacada, sin título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Column - Title Only"
+msgstr "Una columna - Solo el título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Column - Featured Image Only"
+msgstr "Una columna - Solo la imagen destacada"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Column"
+msgstr "Una columna"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide - Featured Image Only"
+msgstr "Amplio - Solo la imagen destacada"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide - Title Only"
+msgstr "Amplio - Solo el título"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide"
+msgstr "Amplio"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide - No Featured Image, No Title"
+msgstr "Amplio - Sin imagen destacada, sin título"
+
+#: styles/gold.json
+msgctxt "Font family name"
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: styles/gold.json
+msgctxt "Font family name"
+msgid "Arvo"
+msgstr "Arvo"
+
+#: styles/gold.json
+msgctxt "Style variation name"
+msgid "Gold"
+msgstr "Oro"
+
+#: styles/dark.json
+msgctxt "Font family name"
+msgid "Syne"
+msgstr "Nostalgia"
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: styles/blue.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: styles/blue.json
+msgctxt "Font family name"
+msgid "Noto Sans"
+msgstr "Noto Sans"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Azul"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigante"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En blanco"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Button Border - Hover"
+msgstr "Borde del botón - Al pasar el cursor"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Button Border - Active"
+msgstr "Borde de botón - Activo"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font family name"
+msgid "System"
+msgstr "Sistema"
+
+#: styles/blue.json styles/dark.json theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font family name"
+msgid "Sorts Mill Goudy"
+msgstr "Sorts Mill Goudy"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "EB Garamond"
+msgstr "EB Garamond"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "League Gothic"
+msgstr "League Gothic"
+
+#: styles/blue.json styles/dark.json styles/gold.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Muy grande"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediana"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeña"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Muy grande"
+
+#: styles/blue.json styles/dark.json styles/gold.json theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Diminuta"
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial"
+msgstr "Recomendación"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Default Search"
+msgstr "Buscador por defecto"
+
+#: patterns/newsletter.php
+msgctxt "Pattern title"
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: patterns/mailing-list.php
+msgctxt "Pattern title"
+msgid "Mailing List"
+msgstr "Lista de correo"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Pie de página por defecto"
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "Comentarios"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "Una página 404"
+
+#: patterns/testimonial.php:44
+msgid "Founder at BeautifulWriting.com"
+msgstr "Fundador de BellaEscritura.com"
+
+#: patterns/testimonial.php:35
+msgid "“I always wanted to write, and thanks to Course, I got it right. My writing is clearer, and I can finally get my message across.”"
+msgstr "«Siempre he querido escribir, y gracias al curso lo he conseguido. Mi escritura es más clara, y por fin puedo hacer llegar mi mensaje»."
+
+#: patterns/testimonial.php:16
+msgid "What students say"
+msgstr "Qué dicen los estudiantes"
+
+#: patterns/search.php:10
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/newsletter.php:21
+msgid "Sign up"
+msgstr "Matricularse"
+
+#: patterns/newsletter.php:17
+msgid "Our latest updates in your e-mail."
+msgstr "Nuestras últimas noticias en tu correo electrónico"
+
+#: patterns/newsletter.php:13
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: patterns/mailing-list.php:29
+msgid "Join Our Mailing List"
+msgstr "Únete a nuestra lista de correo"
+
+#: patterns/mailing-list.php:18
+msgid "Keep track of the latest<br>news and lessons.<br>Every week in your inbox."
+msgstr "Manténte al día sobre las últimas<br>noticias y lecciones.<br>Cada semana en tu bandeja de entrada."
+
+#: patterns/footer.php:97
+msgid "Privacy"
+msgstr "Privacidad"
+
+#: patterns/footer.php:93
+msgid "Terms"
+msgstr "Condiciones"
+
+#: patterns/footer.php:78
+msgid "All Posts"
+msgstr "Todas las entradas"
+
+#: patterns/footer.php:74
+msgid "Episodes"
+msgstr "Episodios"
+
+#: patterns/footer.php:70
+msgid "Video"
+msgstr "Vídeo"
+
+#: patterns/footer.php:66
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/footer.php:56
+msgid "Pages"
+msgstr "Páginas"
+
+#: patterns/footer.php:24
+msgid "Social"
+msgstr "Social"
+
+#: patterns/404.php:24 patterns/search.php:13
+msgid "Search..."
+msgstr "Buscar…"
+
+#: patterns/404.php:21
+msgid "Maybe you should try a search."
+msgstr "Quizás deberías probar con una búsqueda."
+
+#: patterns/404.php:21
+msgid "This page could not be found."
+msgstr "No se ha podido encontrar esta página."
+
+#: functions.php:57
+msgid "Button"
+msgstr "Botón"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Automattic"
+msgstr "Automattic"

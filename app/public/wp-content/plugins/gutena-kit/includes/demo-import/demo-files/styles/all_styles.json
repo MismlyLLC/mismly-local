@@ -1,0 +1,478 @@
+[
+    {
+        "style_slug": "blue",
+        "title": "Blue",
+        "fontFamily": [
+            "Manrope",
+            "Inter"
+        ],
+        "colors": [
+            "#3F6DE4",
+            "#252740",
+            "#575B7A",
+            "#E7F0FF",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "styles": [],
+            "settings": [],
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    },
+    {
+        "style_slug": "gamboge",
+        "title": "Gamboge",
+        "fontFamily": [
+            "Nunito",
+            "Nunito"
+        ],
+        "colors": [
+            "#EE930B",
+            "#001447",
+            "#2B344D",
+            "#FFF4E3",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "settings": {
+                "color": {
+                    "gradients": {
+                        "theme": [
+                            {
+                                "slug": "primary-gradient",
+                                "gradient": "linear-gradient(to bottom, #123284 0%, #0033B5 100%)",
+                                "name": "Primary Gradient"
+                            }
+                        ]
+                    },
+                    "palette": {
+                        "theme": [
+                            {
+                                "slug": "background",
+                                "color": "#FFFFFF",
+                                "name": "Background"
+                            },
+                            {
+                                "slug": "primary",
+                                "color": "#EE930B",
+                                "name": "Primary"
+                            },
+                            {
+                                "slug": "secondary",
+                                "color": "#001447",
+                                "name": "Secondary"
+                            },
+                            {
+                                "slug": "tertiary",
+                                "color": "#2B344D",
+                                "name": "Tertiary"
+                            },
+                            {
+                                "slug": "quaternary",
+                                "color": "#FFF4E3",
+                                "name": "Quaternary"
+                            },
+                            {
+                                "slug": "orange",
+                                "color": "#E7694E",
+                                "name": "Orange"
+                            },
+                            {
+                                "slug": "light-gray",
+                                "color": "rgba(37,39,64,0.25)",
+                                "name": "Light gray"
+                            }
+                        ]
+                    },
+                    "duotone": {
+                        "theme": [
+                            {
+                                "colors": [
+                                    "#EE930B",
+                                    "#EE930B"
+                                ],
+                                "slug": "foreground-and-primary",
+                                "name": "Foreground and primary"
+                            }
+                        ]
+                    }
+                },
+                "custom": {
+                    "typography": {
+                        "font-family": {
+                            "primary": "var(--wp--preset--font-family--nunito-font)",
+                            "secondary": "var(--wp--preset--font-family--nunito-font)"
+                        }
+                    }
+                }
+            },
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    },
+    {
+        "style_slug": "green_munsell",
+        "title": "Green Munsell",
+        "fontFamily": [
+            "Playfair Display",
+            "Open Sans"
+        ],
+        "colors": [
+            "#05B184",
+            "#222547",
+            "#474C70",
+            "#ECFCF9",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "settings": {
+                "color": {
+                    "gradients": {
+                        "theme": [
+                            {
+                                "slug": "primary-gradient",
+                                "gradient": "linear-gradient(to bottom, #006565 0%, #007878 100%)",
+                                "name": "Primary Gradient"
+                            }
+                        ]
+                    },
+                    "palette": {
+                        "theme": [
+                            {
+                                "slug": "background",
+                                "color": "#FFFFFF",
+                                "name": "Background"
+                            },
+                            {
+                                "slug": "primary",
+                                "color": "#05B184",
+                                "name": "Primary"
+                            },
+                            {
+                                "slug": "secondary",
+                                "color": "#222547",
+                                "name": "Secondary"
+                            },
+                            {
+                                "slug": "tertiary",
+                                "color": "#474C70",
+                                "name": "Tertiary"
+                            },
+                            {
+                                "slug": "quaternary",
+                                "color": "#ECFCF9",
+                                "name": "Quaternary"
+                            },
+                            {
+                                "slug": "orange",
+                                "color": "#E7694E",
+                                "name": "Orange"
+                            },
+                            {
+                                "slug": "light-gray",
+                                "color": "rgba(37,39,64,0.25)",
+                                "name": "Light gray"
+                            }
+                        ]
+                    },
+                    "duotone": {
+                        "theme": [
+                            {
+                                "colors": [
+                                    "#05B184",
+                                    "#05B184"
+                                ],
+                                "slug": "foreground-and-primary",
+                                "name": "Foreground and primary"
+                            }
+                        ]
+                    }
+                },
+                "custom": {
+                    "typography": {
+                        "font-family": {
+                            "primary": "var(--wp--preset--font-family--playfairdisplay-font)",
+                            "secondary": "var(--wp--preset--font-family--opensans-font)"
+                        }
+                    }
+                }
+            },
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    },
+    {
+        "style_slug": "madder_lake",
+        "title": "Madder Lake",
+        "fontFamily": [
+            "Bitter",
+            "Inter"
+        ],
+        "colors": [
+            "#CC3636",
+            "#181836",
+            "#30304C",
+            "#FFEDED",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "settings": {
+                "color": {
+                    "gradients": {
+                        "theme": [
+                            {
+                                "slug": "primary-gradient",
+                                "gradient": "linear-gradient(to bottom, #DC4A4A 0%,#CE3E3E 100%)",
+                                "name": "Primary Gradient"
+                            }
+                        ]
+                    },
+                    "palette": {
+                        "theme": [
+                            {
+                                "slug": "background",
+                                "color": "#FFFFFF",
+                                "name": "Background"
+                            },
+                            {
+                                "slug": "primary",
+                                "color": "#CC3636",
+                                "name": "Primary"
+                            },
+                            {
+                                "slug": "secondary",
+                                "color": "#181836",
+                                "name": "Secondary"
+                            },
+                            {
+                                "slug": "tertiary",
+                                "color": "#30304C",
+                                "name": "Tertiary"
+                            },
+                            {
+                                "slug": "quaternary",
+                                "color": "#FFEDED",
+                                "name": "Quaternary"
+                            },
+                            {
+                                "slug": "orange",
+                                "color": "#E7694E",
+                                "name": "Orange"
+                            },
+                            {
+                                "slug": "light-gray",
+                                "color": "rgba(37,39,64,0.25)",
+                                "name": "Light gray"
+                            }
+                        ]
+                    },
+                    "duotone": {
+                        "theme": [
+                            {
+                                "colors": [
+                                    "#CC3636",
+                                    "#CC3636"
+                                ],
+                                "slug": "foreground-and-primary",
+                                "name": "Foreground and primary"
+                            }
+                        ]
+                    }
+                },
+                "custom": {
+                    "typography": {
+                        "font-family": {
+                            "primary": "var(--wp--preset--font-family--bitter-font)",
+                            "secondary": "var(--wp--preset--font-family--inter-font)"
+                        }
+                    }
+                }
+            },
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    },
+    {
+        "style_slug": "pink",
+        "title": "Pink",
+        "fontFamily": [
+            "Outfit",
+            "Inter"
+        ],
+        "colors": [
+            "#E73B95",
+            "#360D76",
+            "#624D84",
+            "#FFF3F7",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "settings": {
+                "color": {
+                    "gradients": {
+                        "theme": [
+                            {
+                                "slug": "primary-gradient",
+                                "gradient": "linear-gradient(to bottom, #E73B95 0%, #994CE7 100%)",
+                                "name": "Primary Gradient"
+                            }
+                        ]
+                    },
+                    "palette": {
+                        "theme": [
+                            {
+                                "slug": "background",
+                                "color": "#FFFFFF",
+                                "name": "Background"
+                            },
+                            {
+                                "slug": "primary",
+                                "color": "#E73B95",
+                                "name": "Primary"
+                            },
+                            {
+                                "slug": "secondary",
+                                "color": "#360D76",
+                                "name": "Secondary"
+                            },
+                            {
+                                "slug": "tertiary",
+                                "color": "#624D84",
+                                "name": "Tertiary"
+                            },
+                            {
+                                "slug": "quaternary",
+                                "color": "#FFF3F7",
+                                "name": "Quaternary"
+                            },
+                            {
+                                "slug": "orange",
+                                "color": "#E7694E",
+                                "name": "Orange"
+                            },
+                            {
+                                "slug": "light-gray",
+                                "color": "rgba(37,39,64,0.25)",
+                                "name": "Light gray"
+                            }
+                        ]
+                    },
+                    "duotone": {
+                        "theme": [
+                            {
+                                "colors": [
+                                    "#E73B95",
+                                    "#E73B95"
+                                ],
+                                "slug": "foreground-and-primary",
+                                "name": "Foreground and primary"
+                            }
+                        ]
+                    }
+                },
+                "custom": {
+                    "typography": {
+                        "font-family": {
+                            "primary": "var(--wp--preset--font-family--outfit-font)",
+                            "secondary": "var(--wp--preset--font-family--inter-font)"
+                        }
+                    }
+                }
+            },
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    },
+    {
+        "style_slug": "ruber",
+        "title": "Ruber",
+        "fontFamily": [
+            "Roboto Slab",
+            "Inter"
+        ],
+        "colors": [
+            "#C8517C",
+            "#1B1464",
+            "#4A466D",
+            "#D9F5FE",
+            "#FFFFFF"
+        ],
+        "style_variation": {
+            "settings": {
+                "color": {
+                    "gradients": {
+                        "theme": [
+                            {
+                                "slug": "primary-gradient",
+                                "gradient": "linear-gradient(to bottom, #261B99 0%, #3025A1 100%)",
+                                "name": "Primary Gradient"
+                            }
+                        ]
+                    },
+                    "palette": {
+                        "theme": [
+                            {
+                                "slug": "background",
+                                "color": "#FFFFFF",
+                                "name": "Background"
+                            },
+                            {
+                                "slug": "primary",
+                                "color": "#C8517C",
+                                "name": "Primary"
+                            },
+                            {
+                                "slug": "secondary",
+                                "color": "#1B1464",
+                                "name": "Secondary"
+                            },
+                            {
+                                "slug": "tertiary",
+                                "color": "#4A466D",
+                                "name": "Tertiary"
+                            },
+                            {
+                                "slug": "quaternary",
+                                "color": "#D9F5FE",
+                                "name": "Quaternary"
+                            },
+                            {
+                                "slug": "orange",
+                                "color": "#E7694E",
+                                "name": "Orange"
+                            },
+                            {
+                                "slug": "light-gray",
+                                "color": "rgba(37,39,64,0.25)",
+                                "name": "Light gray"
+                            }
+                        ]
+                    },
+                    "duotone": {
+                        "theme": [
+                            {
+                                "colors": [
+                                    "#C8517C",
+                                    "#C8517C"
+                                ],
+                                "slug": "foreground-and-primary",
+                                "name": "Foreground and primary"
+                            }
+                        ]
+                    }
+                },
+                "custom": {
+                    "typography": {
+                        "font-family": {
+                            "primary": "var(--wp--preset--font-family--robotoslab-font)",
+                            "secondary": "var(--wp--preset--font-family--inter-font)"
+                        }
+                    }
+                }
+            },
+            "isGlobalStylesUserThemeJSON": true,
+            "version": 2
+        }
+    }
+]

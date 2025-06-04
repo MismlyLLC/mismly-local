@@ -1,0 +1,471 @@
+# Translation of Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-22 12:57:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release)\n"
+
+#: includes/class-radar-dashboard-widget.php:169
+msgid "Configure now"
+msgstr "Configurar ahora"
+
+#: includes/class-radar-dashboard-widget.php:142
+#: includes/class-radar-dashboard-widget.php:155
+msgid "Help me get compliant"
+msgstr "Ayúdame a cumplir la normativa"
+
+#: includes/class-radar-dashboard-widget.php:139
+msgid "Analyzing compliance status…"
+msgstr "Analizar el estado de cumplimiento..."
+
+#: includes/class-radar-dashboard-widget.php:138
+msgid "We are scanning your website and shortly will show you the results."
+msgstr "Estamos explorando tu sitio web y en breve te mostraremos los resultados."
+
+#: includes/class-radar-dashboard-widget.php:97
+msgid "Your compliance status requires attention!"
+msgstr "¡Tu estado de cumplimiento requiere atención!"
+
+#: views/partials/cs-general-settings.php:333
+msgid "Do not show Cookie Banner for admin users (recommended)"
+msgstr "No mostrar el banner de cookies a los usuarios administradores (recomendado)"
+
+#: views/partials/cs-simplified-configuration.php:35
+msgid "GDPR"
+msgstr "RGPD"
+
+#: includes/class-service-rating.php:176
+msgid "Set up a Consent Banner"
+msgstr "Configura un banner de consentimiento"
+
+#: includes/functions.php:110 includes/functions.php:140
+#: includes/functions.php:161
+msgid "Sorry, you are not authorized to perform this action."
+msgstr "Lo siento, no estás autorizado para realizar esta acción."
+
+#: views/partials/product-card.php:73
+msgid "Service on"
+msgstr "Servicio activo"
+
+#: views/partials/product-card.php:73
+msgid "Service off"
+msgstr "Servicio desactivado"
+
+#: views/partials/cs-general-settings.php:254
+#: views/partials/cs-general-settings.php:270
+msgid "Enter custom script"
+msgstr "Introducir script personalizado"
+
+#: views/partials/cs-general-settings.php:289
+#: views/partials/cs-general-settings.php:305
+msgid "Enter custom iframe"
+msgstr "Introducir iframe personalizado"
+
+#: views/partials/cs-general-settings.php:246
+msgid "Blocked domains"
+msgstr "Dominios bloqueados"
+
+#: views/partials/site-info.php:33
+msgid "How is it calculated?"
+msgstr "¿Cómo se calcula?"
+
+#: views/partials/modals/modal-rating.php:19
+msgid "Here’s how we calculate your rating."
+msgstr "Así es como calculamos tu puntuación."
+
+#: views/pp-configuration.php:53 views/tc-configuration.php:50
+msgid "Integration"
+msgstr "Integración"
+
+#: views/partials/product-card.php:75
+msgid "Configure"
+msgstr "Configurar"
+
+#: views/partials/modals/modal-sync.php:19
+msgid "or"
+msgstr "o"
+
+#: views/partials/modals/modal-select-language.php:68
+msgid "Continue"
+msgstr "Continuar"
+
+#: views/partials/integrate-footer.php:17
+msgid "Integrate"
+msgstr "Integrar"
+
+#: views/partials/modals/modal-no-website-found.php:22
+#: views/partials/modals/modal-ops-embed-invalid.php:22
+msgid "Try again"
+msgstr "Intentar de nuevo"
+
+#: views/partials/modals/modal-almost-there.php:134
+msgid "Synchronize products"
+msgstr "Sincronizar los productos"
+
+#: includes/class-radar-dashboard-widget.php:152
+#: includes/class-radar-dashboard-widget.php:166
+#: includes/class-radar-dashboard-widget.php:180
+#: includes/class-radar-dashboard-widget.php:194
+#: views/partials/header-scanned.php:15
+#: views/partials/modals/modal-rating.php:16 views/partials/site-info.php:32
+msgid "Your rating"
+msgstr "Tu valoración"
+
+#: views/partials/footer.php:17
+msgid "Documentation"
+msgstr "Documentación"
+
+#: views/partials/cs-simplified-configuration.php:106
+#: views/partials/modals/modal-rating.php:38
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: views/partials/modals/modal-almost-there.php:53
+msgid "(required)"
+msgstr "(obligatorio)"
+
+#: views/partials/integrate-footer.php:16
+msgid "Reset settings"
+msgstr "Restablecer los ajustes"
+
+#: views/partials/cs-simplified-configuration.php:101
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: views/partials/button-style.php:14 views/tc-configuration.php:52
+msgid "Button style"
+msgstr "Estilo del botón"
+
+#: views/partials/button-position.php:81 views/tc-configuration.php:143
+msgid "HTML"
+msgstr "HTML"
+
+#: views/partials/breadcrumb.php:16
+msgid "Products"
+msgstr "Productos"
+
+#: views/partials/banner-style.php:27 views/partials/button-style.php:23
+#: views/tc-configuration.php:61
+msgid "Light"
+msgstr "Claro"
+
+#: views/partials/banner-style.php:21 views/partials/button-style.php:32
+#: views/tc-configuration.php:70
+msgid "Dark"
+msgstr "Oscuro"
+
+#: views/partials/banner-style.php:14
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class-iubenda-settings.php:521 views/partials/site-info.php:26
+msgid "Plugin settings"
+msgstr "Ajustes del plugin"
+
+#: views/cons-single-form.php:335
+msgid "Add New Document"
+msgstr "Añadir nuevo documento"
+
+#: views/cons-single-form.php:116
+msgid "None"
+msgstr "Ninguno"
+
+#: views/cons-single-form.php:93
+msgid "Status"
+msgstr "Estado"
+
+#: views/cons-single-form.php:89
+msgid "Map fields"
+msgstr "Campos del mapa"
+
+#: views/cons-configuration.php:66
+msgid "Add forms"
+msgstr "Añadir formularios"
+
+#: iubenda_cookie_solution.php:1541
+msgid "Rate"
+msgstr "Valorar"
+
+#: iubenda_cookie_solution.php:509
+msgid "Settings"
+msgstr "Ajustes"
+
+#: views/partials/cs-general-settings.php:34
+#: views/partials/cs-general-settings.php:43
+msgid "Simplified"
+msgstr "Simplificada"
+
+#: views/partials/cs-general-settings.php:18
+msgid "Configuration"
+msgstr "Configuración"
+
+#: views/partials/welcome-screen-header.php:14
+msgid "Welcome to iubenda!"
+msgstr "¡Bienvenido/a a iubenda!"
+
+#: includes/class-service-rating.php:186
+msgid "Set up a privacy policy"
+msgstr "Establece una política de privacidad"
+
+#: includes/class-service-rating.php:181
+msgid "Only track users that give consent"
+msgstr "Rastrear solo a los usuarios que den su consentimiento"
+
+#: views/partials/cs-simplified-configuration.php:110
+msgid "You should activate this feature if you show ads on your website"
+msgstr "Debes activar esta característica si muestras anuncios en tu web"
+
+#: views/partials/button-position.php:22 views/tc-configuration.php:85
+msgid "Integrate manually"
+msgstr "Integrar manualmente"
+
+#: views/partials/button-position.php:17 views/tc-configuration.php:81
+msgid "Add to the footer automatically"
+msgstr "Añadir al pie de página automáticamente"
+
+#: views/partials/button-position.php:13 views/tc-configuration.php:77
+msgid "Button position"
+msgstr "Posición del botón"
+
+#: views/integrate-setup.php:83 views/partials/cs-general-settings.php:150
+msgid "Learn how to fix it"
+msgstr "Descubre cómo corregirlo"
+
+#: views/integrate-setup.php:90 views/partials/amp-template-links.php:37
+msgid "Default language"
+msgstr "Idioma por defecto"
+
+#: views/cons-single-form.php:204
+msgid "Exclude field"
+msgstr "Excluir el campo"
+
+#: views/cons-single-form.php:198
+msgid "Exclude fields"
+msgstr "Excluir campos"
+
+#: views/cons-single-form.php:193
+msgid "Add New Preference"
+msgstr "Añadir nueva preferencia"
+
+#: views/cons-single-form.php:164 views/cons-single-form.php:184
+#: views/cons-single-form.php:225 views/cons-single-form.php:244
+#: views/cons-single-form.php:300 views/cons-single-form.php:323
+msgid "Remove"
+msgstr "Eliminar"
+
+#: views/cons-single-form.php:147 views/cons-single-form.php:175
+#: views/cons-single-form.php:285 views/cons-single-form.php:298
+#: views/cons-single-form.php:322
+msgid "Enter field name"
+msgstr "Introduce el nombre del campo"
+
+#: views/cons-single-form.php:142
+msgid "Preferences field"
+msgstr "Campo de preferencias"
+
+#: views/cons-single-form.php:110 views/cons-single-form.php:143
+msgid "Form field"
+msgstr "Campo de formulario"
+
+#: views/cons-configuration.php:99 views/cons-single-form.php:348
+#: views/cs-configuration.php:39 views/plugin-settings.php:62
+#: views/pp-configuration.php:67 views/tc-configuration.php:174
+msgid "Save settings"
+msgstr "Guardar los ajustes"
+
+#: views/tc-configuration.php:38
+msgid "Paste your terms and conditions embed code here"
+msgstr "Pega aquí el código de incrustación de tus términos y condiciones"
+
+#: views/tc-configuration.php:32
+msgid "Configure terms and conditions by"
+msgstr "Configura los términos y condiciones"
+
+#: views/tc-configuration.php:29
+msgid "Configure your terms and conditions on our website and paste here the embed code to integrate the button on your website."
+msgstr "Configura tus condiciones en nuestro sitio web y pega aquí el código de incrustación para integrar el botón en tu sitio web."
+
+#: views/partials/modals/modal-select-language.php:16
+msgid "Now, select your website language"
+msgstr "Ahora, selecciona el idioma de tu sitio web"
+
+#: views/partials/modals/modal-pp-created.php:21
+msgid "Got it"
+msgstr "De acuerdo"
+
+#: views/partials/modals/modal-no-website-found.php:23
+#: views/partials/modals/modal-sync.php:20
+msgid "I want to start from scratch"
+msgstr "Quiero empezar de cero"
+
+#: views/partials/modals/modal-almost-there.php:74
+msgid "Paste your API key here"
+msgstr "Pega aquí tu clave API"
+
+#: views/partials/modals/modal-almost-there.php:26
+msgid "Select products you have already activated"
+msgstr "Selecciona los productos que ya has activado"
+
+#: views/partials/modals/modal-almost-there.php:17
+msgid "Nice! We are almost there."
+msgstr "¡Qué bien! Ya casi hemos llegado."
+
+#: views/partials/languages-tabs.php:53
+msgid "Paste your embed code here"
+msgstr "Pega aquí tu código de incrustación"
+
+#: views/partials/header-scanned.php:16
+msgid "We have analyzed your website in background and this is the result."
+msgstr "Hemos analizado tu sitio web en segundo plano y éste es el resultado."
+
+#: includes/widget/class-iubenda-legal-widget.php:219
+#: includes/widget/elementor/class-iubenda-elementor-legal-widget.php:103
+#: includes/widget/elementor/class-iubenda-elementor-legal-widget.php:113
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/block/class-iubenda-legal-block.php:97
+#: includes/block/class-iubenda-legal-block.php:455
+#: includes/block/class-iubenda-legal-block.php:498
+#: includes/widget/class-iubenda-legal-widget.php:38
+#: includes/widget/class-iubenda-legal-widget.php:210
+msgid "Legal"
+msgstr "Legal"
+
+#: includes/class-iubenda-settings.php:1056
+#: includes/class-iubenda-settings.php:1085
+msgid "Version"
+msgstr "Versión"
+
+#: includes/class-iubenda-settings.php:1011
+#: includes/class-iubenda-settings.php:1034
+#: includes/class-iubenda-settings.php:1064
+#: includes/class-iubenda-settings.php:1093
+#: views/partials/banner-position.php:27
+msgid "Position"
+msgstr "Posición"
+
+#: includes/class-iubenda-settings.php:1007
+#: includes/class-iubenda-settings.php:1030
+#: includes/class-iubenda-settings.php:1060
+#: includes/class-iubenda-settings.php:1089
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/class-iubenda-notice.php:461
+msgid "No"
+msgstr "No"
+
+#: includes/class-iubenda-notice.php:460
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class-iubenda-list-table-forms.php:388
+#: views/partials/cs-simplified-configuration.php:47
+msgid "All"
+msgstr "Todo"
+
+#: includes/class-iubenda-list-table-forms.php:312
+msgid "Filter"
+msgstr "Filtrar"
+
+#: includes/class-iubenda-list-table-forms.php:198
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/class-iubenda-list-table-forms.php:198
+msgid "Delete this form"
+msgstr "Borrar este formulario "
+
+#: includes/class-iubenda-list-table-forms.php:197
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class-iubenda-list-table-forms.php:197
+msgid "Edit this form"
+msgstr "Editar este formulario"
+
+#: includes/class-iubenda-list-table-forms.php:121
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/class-iubenda-list-table-forms.php:120
+msgid "Fields"
+msgstr "Campos"
+
+#: includes/class-iubenda-settings.php:1080
+msgid "Terms and Conditions"
+msgstr "Términos y condiciones"
+
+#: views/partials/cs-general-settings.php:249
+msgid "Custom scripts"
+msgstr "Scripts personalizados"
+
+#: views/integrate-setup.php:130 views/partials/cs-general-settings.php:205
+msgid "Secondary"
+msgstr "Secundario"
+
+#: views/integrate-setup.php:126 views/partials/cs-general-settings.php:201
+msgid "Primary"
+msgstr "Principal"
+
+#: views/plugin-settings.php:52
+msgid "Submenu"
+msgstr "Submenú"
+
+#: views/plugin-settings.php:48
+msgid "Top menu"
+msgstr "Menú superior"
+
+#: views/plugin-settings.php:44
+msgid "Menu position"
+msgstr "Posición del menú"
+
+#: views/plugin-settings.php:55
+msgid "Select whether to display iubenda in a top admin menu or the Settings submenu."
+msgstr "Selecciona si quieres visualizar iubenda en el menú superior de administración o en el submenú «Ajustes»."
+
+#: views/plugin-settings.php:41
+msgid "Delete all plugin data upon deactivation"
+msgstr "Borrar todos los datos del plugin al desactivarlo"
+
+#. Author of the plugin
+#: iubenda_cookie_solution.php
+msgid "iubenda"
+msgstr "iubenda"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: iubenda_cookie_solution.php
+msgid "https://www.iubenda.com"
+msgstr "https://www.iubenda.com"
+
+#: includes/class-iubenda-settings.php:507
+msgid "You don't have permission to access this page."
+msgstr "No tienes permiso para acceder a esta página."
+
+#: includes/class-iubenda-notice.php:128
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: views/integrate-setup.php:143 views/partials/cs-general-settings.php:219
+msgid "Leave scripts untouched on the page if the user has already given consent"
+msgstr "Deja los scripts intactos en la página si el usuario ya ha dado su consentimiento"
+
+#: views/plugin-settings.php:33
+msgid "Do not run the plugin inside the RSS feed (recommended)"
+msgstr "No ejecutar el plugin dentro del feed RSS (recomendado)"
+
+#: views/plugin-settings.php:29
+msgid "Restrict the plugin to run only for requests that have \"Content-type: text / html\" (recommended)"
+msgstr "Restringir el uso del plugin para ejecutarlo solo para peticiones que tengan «Content-type: text / html» (recomendado)"
+
+#: views/integrate-setup.php:122 views/partials/cs-general-settings.php:197
+msgid "Select Parsing Engine"
+msgstr "Seleccionar el motor de análisis"

@@ -1,0 +1,19 @@
+# 🔒 Sensitive config files
+app/public/wp-config.php
+app/public/.htaccess
+
+# 💾 Database dumps
+*.sql
+/app/sql/
+
+# 📁 User-generated content
+# app/public/wp-content/uploads/
+
+# ⚙️ Local environment setup and logs
+conf/
+logs/
+
+# 🧼 System files
+.DS_Store
+Thumbs.db
+
